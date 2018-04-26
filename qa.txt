@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A6F2-F414
+
+ Directory of C:\Users\ADEYEYE\Desktop\JavaProject
+
+04/26/2018  03:45 PM    <DIR>          .
+04/26/2018  03:45 PM    <DIR>          ..
+04/26/2018  03:29 PM               685 HelloWorld.class
+04/26/2018  03:12 PM               231 HelloWorld.java
+04/26/2018  03:45 PM                 0 qa.txt
+               3 File(s)            916 bytes
+               2 Dir(s)  446,696,771,584 bytes free
